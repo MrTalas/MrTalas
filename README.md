@@ -2,7 +2,10 @@
 	
 	
 ## Software Developer | Iot - Robotics
-## mrtalas.com
+
+### About me
+
+mrtalas.com
 
 ### Contact me
 
