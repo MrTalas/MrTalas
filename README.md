@@ -7,7 +7,7 @@ I am a high school student who likes to improve himself.My goal is to complete m
 
 - I share my projects and produce content on my Instagram page called https://instagram.com/nodemcuteknoloji/
 
-- I am developing projects in the field of internet of things (IoT).
+- I am developing projects in the field of internet of things (IoT) and robotics.
 
 - I attend certificate programs and entrepreneurship conferences related to my field.
 
