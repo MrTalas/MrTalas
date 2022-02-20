@@ -9,7 +9,7 @@ I am a high school student who likes to improve himself.My goal is to complete m
 
 - I am developing projects in the field of internet of things (IoT).
 
-- I attend entrepreneurship conferences and certificate programs related to my field.
+- I attend certificate programs and entrepreneurship conferences related to my field.
 
 
 
