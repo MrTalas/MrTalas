@@ -17,7 +17,7 @@
 
 ### Tech I use
 
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" align="left" /></a>
+<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="32" width="32" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" align="left" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTalas&layout=demo)
 
