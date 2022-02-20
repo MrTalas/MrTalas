@@ -5,7 +5,7 @@
 
 ### Contact me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left" />]
 
 <br />
 <br />
@@ -14,6 +14,5 @@
 
 
 
-[linkedin] : https://www.linkedin.com/in/muhammedalitalas/
 
 	
