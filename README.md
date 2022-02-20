@@ -17,7 +17,7 @@
 
 ### Tech I use
 
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="32" width="90" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" align="left" /></a>
+<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="27" width="40" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" align="left" /></a>
 
 <br />
 <br />
