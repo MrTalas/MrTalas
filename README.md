@@ -5,7 +5,7 @@
 
 ### About me
 
-mrtalas.com
+<p><a href="https://www.mrtalas.com/"><b>mrtalas.com</br></a></p>
 
 ### Contact me
 
