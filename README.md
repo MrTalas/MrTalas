@@ -5,6 +5,8 @@
 
 I am a high school student who likes to improve himself.My goal is to complete my education by studying engineering.When I start my career, I want to reach the top of my career.
 
+- I share my projects and produce content on my instagram page called https://instagram.com/nodemcuteknoloji/
+
 
 
 ### About me
