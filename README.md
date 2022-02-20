@@ -5,7 +5,11 @@
 
 I am a high school student who likes to improve himself.My goal is to complete my education by studying engineering.When I start my career, I want to reach the top of my career.
 
-- I share my projects and produce content on my instagram page called https://instagram.com/nodemcuteknoloji/
+- I share my projects and produce content on my Instagram page called https://instagram.com/nodemcuteknoloji/
+
+- I am developing projects in the field of internet of things (IoT).
+
+- I attend entrepreneurship conferences and certificate programs related to my field.
 
 
 
