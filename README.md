@@ -3,6 +3,10 @@
 	
 ## Software Developer | Iot - Robotics
 
+I am a high school student who likes to improve himself.My goal is to complete my education by studying engineering.When I start my career, I want to reach the top of my career.
+
+
+
 ### About me
 
 <p><a href="https://www.mrtalas.com/"><b>mrtalas.com</br></a></p>
