@@ -27,10 +27,13 @@ I am a high school student who likes to improve himself.My goal is to complete m
 
 ### Tech I use
 
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" align="left" /></a>
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" align="left" /></a>
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" align="left" /></a>
+<h3 align="left">Backend Stack</h3>
+<p>
+	<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" /></a>
+	<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" />		</a>
+	<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" /></a>
+	<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /></a>
+</p>
 
 <br />
 <br />
