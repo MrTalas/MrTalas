@@ -30,7 +30,7 @@ I am a high school student who likes to improve himself.My goal is to complete m
 <a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" align="left" /></a>
 <a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" align="left" /></a>
 <a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
-<a href="https://cdnlogo.com/logo/python_39810.html"><img height="60" width="80" src="https://cdn.cdnlogo.com/logos/p/35/python.svg"></a>
+<a href="https://cdnlogo.com/logo/python_39810.html"><img height="60" width="80" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
 
 <br />
 <br />
