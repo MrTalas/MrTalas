@@ -7,7 +7,7 @@ I am a high school student who likes to improve himself.My goal is to upgrade my
 
 Software is a philosophy of life for me.
 
-I love c/c++ and python I still keep learning.
+I love C/C++ and Python I still keep learning.
 
 I am open to development, I like to learn new things.
 
