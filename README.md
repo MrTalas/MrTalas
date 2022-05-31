@@ -3,7 +3,9 @@
 	
 ## Software Developer | Iot - Robotics
 
-I am a high school student who likes to improve himself.My goal is to upgrade my education to engineering..When I start my career, I want to reach the top of my career.
+I am a high school student who likes to improve myself.
+My goal is to raise my education level to engineering.
+I want to reach heights in my career.
 
 Software is a philosophy of life for me.
 
@@ -11,11 +13,12 @@ I love C/C++ and Python I still keep learning.
 
 I am open to development, I like to learn new things.
 
-I am developing projects in the field of internet of things (IoT) and robotics.
+I develop projects on Iot  and robotics.
 
-I share my projects and produce content on my Instagram page called https://instagram.com/nodemcuteknoloji/
+I share my projects and produce content on Instagram.
+(@nodemcuteknoloji)
 
-I attend courses and entrepreneurship conferences related to my field.
+I attend events and entrepreneurship conferences related to my field.
 
 
 
