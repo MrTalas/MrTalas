@@ -20,6 +20,8 @@ I share my projects and produce content on Instagram.
 
 I attend events and entrepreneurship conferences related to my field.
 
+I am open to any job offer.
+
 
 
 ### About me
