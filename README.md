@@ -38,8 +38,10 @@ I am open to any job offer.
 
 ### Programming Languages / Software
 
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
-<a href="https://www.instagram.com/nodemcuteknoloji/"><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" align="left" /></a>
+<a href=""><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
+<a href=""><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" align="left" /></a>
+<a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" align="left" /></a>
+<a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" align="left" /></a>
 
 <br />
 <br />
