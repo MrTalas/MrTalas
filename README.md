@@ -3,24 +3,15 @@
 	
 ## Software Developer | Iot - Robotics
 
-I am a high school student who likes to improve myself.
-My goal is to raise my education level to engineering.
-I want to reach heights in my career.
+Hello,
 
-Software is a philosophy of life for me.
+I am a person who adopts the philosophy of lifelong learning. Since I started high school, my interest in robotics, electronics and software has gradually increased. I have carried out projects in many national and international competitions in these fields. I have actively participated in robotics competitions, STEM projects and other technology, maths and software-oriented activities. I am also very interested in IoT technology and have successfully completed projects required by Industry 4.0.
 
-I love C/C++ and Python I still keep learning.
+During my high school life, I undertook more than 50 freelance projects and was directly involved in projects in various fields such as IoT, robotics, web.
 
-I am open to development, I like to learn new things.
+Since I studied at a technical high school, I successfully completed my summer internship last year. This year, I tried to spare time for competitions and projects. I am currently working as a web developer at Beti Elektronik.
 
-I develop projects on Iot  and robotics.
-
-I share my projects and produce content on Instagram.
-(@nodemcuteknoloji)
-
-I attend events and entrepreneurship conferences related to my field.
-
-I am open to any job offer.
+You can find more detailed information on my LinkedIn profile.
 
 
 
