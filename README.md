@@ -38,7 +38,7 @@ I am open to any job offer.
 
 ### Programming Languages / Software
 
-<a href=""><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
+<a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" align="left" /></a>
 <a href=""><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" align="left" /></a>
 <a href=""><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" /></a>
 <a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" align="left" /></a>
