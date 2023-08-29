@@ -26,7 +26,7 @@ I am open to any job offer.
 
 ### About me
 
-<p><a href="https://www.mrtalas.com/"><b>mrtalas.com</br></a></p>
+<p><a href="https://www.talasweb.com/"><b>talasweb.com</br></a></p>
 
 ### Contact me
 
@@ -40,7 +40,7 @@ I am open to any job offer.
 
 <a href=""><img height="40" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg" align="left" /></a>
 <a href=""><img height="40" width="60" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" align="left" /></a>
-<a href=""><img height="40" width="60" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" /></a>
+<a href=""><img height="40" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" align="left" /></a>
 <a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" align="left" /></a>
 <a href=""><img height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/2560px-Arduino_Logo.svg.png" align="left" /></a>
 
