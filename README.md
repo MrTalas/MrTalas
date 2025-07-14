@@ -4,12 +4,13 @@
 ## Software Developer | Iot - Robotics
 
 Hello,
+I am someone who embraces the philosophy of lifelong learning. Since starting high school, my interest in robotics, electronics, and software has steadily grown. I have carried out many projects in these fields, participating in numerous national and international competitions. I have actively taken part in robotics competitions, STEM projects, and other technology, mathematics, and software-focused events.
 
-I am a person who adopts the philosophy of lifelong learning. Since I started high school, my interest in robotics, electronics and software has gradually increased. I have carried out projects in many national and international competitions in these fields. I have actively participated in robotics competitions, STEM projects and other technology, maths and software-oriented activities. I am also very interested in IoT technology and have successfully completed projects required by Industry 4.0.
+I am also very interested in IoT technology and have successfully completed projects aligned with the requirements of Industry 4.0.
+Throughout my high school years, I undertook over 50 freelance projects and was directly involved in various projects in IoT, robotics, and web development.
 
-During my high school life, I undertook more than 50 freelance projects and was directly involved in projects in various fields such as IoT, robotics, web.
-
-Since I studied at a technical high school, I successfully completed my summer internship last year. This year, I tried to spare time for competitions and projects. I am currently working as a web developer at Beti Elektronik.
+I am an officially recognized Google Product Expert and will be representing my country at Google’s invitation in Dublin, Ireland at the end of this year.
+Currently, I work at Beti Elektronik as a web developer and as an e-commerce & digital marketing specialist.
 
 You can find more detailed information on my LinkedIn profile.
 
